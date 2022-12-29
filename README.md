@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnantaSukma77
-- 👀 I’m interested in Front End Developer
-- 🌱 I’m currently learning React Js
+- 👀 I’m interested in Fullstack Developer
+- 🌱 I’m currently learning React Js and Java
 - 💞️ I’m looking to collaborate on Real-Project
 - 📫 How to reach me to my email: ananta.sukma77@gmail.com
 
